@@ -1,1 +1,1 @@
-# python_artificial_intelligence
+# python_artificial_intelligence_project
