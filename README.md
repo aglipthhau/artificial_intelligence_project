@@ -1,1 +1,1 @@
-# python_artificial_intelligence_project
+# project_computer_vision
